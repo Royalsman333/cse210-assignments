@@ -1,5 +1,5 @@
 # cse210-ww-student-template
-This is the starter code for students in the worldwide content version of CSE 210.
+Hello, my name is Jeremy Untch. I am excited to be a part of this class!
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
